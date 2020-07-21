@@ -8,9 +8,9 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h2>You are witnessing the birth of a personal site</h2>
+    <p>I'm experimenting with Gatsby to craft this webpage</p>
+    <p>Lets see what happens ¯\_(ツ)_/¯</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
